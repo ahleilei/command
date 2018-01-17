@@ -1,0 +1,12 @@
+
+1、下载
+brew intall git
+2、创建仓库
+cd gitspace
+git init
+3、添加文件
+git add a.txt
+
+
+
+
